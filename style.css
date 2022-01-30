@@ -1,0 +1,40 @@
+body {
+    font-family: Linux Libertine Mono;
+    src: url("./linux-libertine/LinLibertine_M.otf") format("opentype");
+    background-color: white;
+    margin: 1%;
+    color: #282828;
+}
+h3#pre-title {
+    width: 100%;
+    text-align: center;
+    font-size: 125%;
+    margin: 0px;
+    padding-top: 1%;
+}
+h1#title {
+    width: 100%;
+    text-align: center;
+    font-size: 250%;
+    margin: 0px;
+}
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: #279dc2;
+}
+ul#nav {
+    color: #606060;
+}
+li.nav {
+    display: inline;
+    margin: 1%;
+}
+div#container {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+hr {
+    border-style: solid;
+}
